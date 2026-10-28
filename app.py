@@ -416,7 +416,7 @@ elif selected_page == "2. Ticket Explorer":
         "resolved_at": "Resolved Time",
     }, inplace=True)
 
-    # Style highlighting
+    # Style highlighting (supports both pandas map and legacy applymap)
     def highlight_sla(val):
         if val == SLA_OVERDUE:
             return "background-color: #7f1d1d; color: #ffffff; font-weight: bold;"
@@ -428,7 +428,10 @@ elif selected_page == "2. Ticket Explorer":
             return "background-color: #064e3b; color: #a7f3d0;"
         return ""
 
-    styled_table = display_df.style.applymap(highlight_sla, subset=["SLA Risk Indicator"])
+    if hasattr(display_df.style, "map"):
+        styled_table = display_df.style.map(highlight_sla, subset=["SLA Risk Indicator"])
+    else:
+        styled_table = display_df.style.applymap(highlight_sla, subset=["SLA Risk Indicator"])
     st.dataframe(styled_table, use_container_width=True, height=450)
 
     # CSV Download option
