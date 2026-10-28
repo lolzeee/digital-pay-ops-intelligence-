@@ -375,8 +375,8 @@ elif selected_page == "2. Ticket Explorer":
     if search_query.strip():
         q = search_query.strip().lower()
         filtered_df = filtered_df[
-            filtered_df["ticket_id"].str.lower().contains(q, na=False) |
-            filtered_df["assigned_technician"].str.lower().contains(q, na=False)
+            filtered_df["ticket_id"].astype(str).str.contains(q, case=False, na=False, regex=False) |
+            filtered_df["assigned_technician"].astype(str).str.contains(q, case=False, na=False,regex=False)
         ]
 
     # Metrics on filtered view
