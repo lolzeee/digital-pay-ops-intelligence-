@@ -1,0 +1,321 @@
+ticket_id,created_at,region,issue_type,priority,status,assigned_technician,sla_hours,sla_deadline,resolved_at,is_synthetic
+TICK-1001,2026-10-27 10:00:00,Riyadh Metro,New Terminal Installation,High,In Progress,Faisal Al-Harbi,24,2026-10-28 10:00:00,,True
+TICK-1002,2026-10-27 18:00:00,Medina North,Hardware Malfunction,Critical,Dispatched,Hamza Al-Amri,24,2026-10-28 18:00:00,,True
+TICK-1003,2026-10-28 10:00:00,Medina North,Hardware Malfunction,High,In Progress,Saud Al-Balawi,24,2026-10-29 10:00:00,,True
+TICK-1004,2026-10-27 00:00:00,Dammam Eastern,New Terminal Installation,High,Resolved,Ali Al-Khaldi,24,2026-10-28 00:00:00,2026-10-27 19:00:00,True
+TICK-1005,2026-10-26 16:00:00,Dammam Eastern,Software & Firmware Glitch,Medium,Resolved,Mona Al-Qahtani,24,2026-10-27 16:00:00,2026-10-27 22:00:00,True
+TICK-1006,2026-10-20 13:35:13,Medina North,Hardware Malfunction,Medium,Resolved,Saud Al-Balawi,24,2026-10-21 13:35:13,2026-10-21 17:38:27,True
+TICK-1007,2026-10-23 07:39:27,Dammam Eastern,Paper Roll & Peripheral Setup,Low,Resolved,Khaled Al-Dossary,54,2026-10-25 13:39:27,2026-10-23 16:25:13,True
+TICK-1008,2026-10-19 13:54:29,Dammam Eastern,New Terminal Installation,High,Resolved,Mona Al-Qahtani,36,2026-10-21 01:54:29,2026-10-21 17:55:41,True
+TICK-1009,2026-10-19 00:27:56,Jeddah Coastal,Hardware Malfunction,High,Resolved,Noura Al-Saeed,18,2026-10-19 18:27:56,2026-10-19 13:43:11,True
+TICK-1010,2026-10-23 00:36:35,Riyadh Metro,New Terminal Installation,Critical,Resolved,Reem Al-Otaibi,24,2026-10-24 00:36:35,2026-10-23 13:45:28,True
+TICK-1011,2026-10-22 05:17:04,Dammam Eastern,New Terminal Installation,Medium,Resolved,Mona Al-Qahtani,48,2026-10-24 05:17:04,2026-10-23 07:06:08,True
+TICK-1012,2026-10-23 01:12:02,Dammam Eastern,Software & Firmware Glitch,High,Resolved,Mona Al-Qahtani,13,2026-10-23 14:12:02,2026-10-23 07:44:19,True
+TICK-1013,2026-10-19 20:48:20,Riyadh Metro,Software & Firmware Glitch,Low,Resolved,Faisal Al-Harbi,27,2026-10-20 23:48:20,2026-10-19 22:54:11,True
+TICK-1014,2026-10-15 01:41:19,Makkah Central,Network / Connectivity Offline,Medium,In Progress,Ibrahim Fallatah,12,2026-10-15 13:41:19,,True
+TICK-1015,2026-10-17 21:31:09,Riyadh Metro,Network / Connectivity Offline,Medium,Resolved,Reem Al-Otaibi,12,2026-10-18 09:31:09,2026-10-17 23:44:36,True
+TICK-1016,2026-10-15 01:25:02,Riyadh Metro,Paper Roll & Peripheral Setup,Low,Resolved,Reem Al-Otaibi,54,2026-10-17 07:25:02,2026-10-15 07:19:23,True
+TICK-1017,2026-10-26 11:47:55,Dammam Eastern,Software & Firmware Glitch,Medium,Pending Merchant Action,Khaled Al-Dossary,18,2026-10-27 05:47:55,,True
+TICK-1018,2026-10-28 08:28:31,Medina North,Paper Roll & Peripheral Setup,Medium,Dispatched,Saud Al-Balawi,36,2026-10-29 20:28:31,,True
+TICK-1019,2026-10-27 10:18:21,Jeddah Coastal,New Terminal Installation,Low,In Progress,Omar Al-Ghamdi,72,2026-10-30 10:18:21,,True
+TICK-1020,2026-10-15 09:48:20,Medina North,Software & Firmware Glitch,Critical,Resolved,Saud Al-Balawi,9,2026-10-15 18:48:20,2026-10-15 15:11:19,True
+TICK-1021,2026-10-25 19:36:51,Jeddah Coastal,Paper Roll & Peripheral Setup,Medium,Resolved,Noura Al-Saeed,36,2026-10-27 07:36:51,2026-10-26 18:00:55,True
+TICK-1022,2026-10-25 11:43:35,Makkah Central,Software & Firmware Glitch,Medium,Resolved,Abdullah Hawsawi,18,2026-10-26 05:43:35,2026-10-25 16:02:46,True
+TICK-1023,2026-10-25 10:18:16,Jeddah Coastal,New Terminal Installation,Medium,Dispatched,Omar Al-Ghamdi,48,2026-10-27 10:18:16,,True
+TICK-1024,2026-10-25 15:13:50,Riyadh Metro,Hardware Malfunction,High,Resolved,Hassan Al-Zahrani,18,2026-10-26 09:13:50,2026-10-26 01:12:35,True
+TICK-1025,2026-10-25 23:12:45,Makkah Central,New Terminal Installation,Medium,Resolved,Ibrahim Fallatah,48,2026-10-27 23:12:45,2026-10-26 18:48:57,True
+TICK-1026,2026-10-27 18:41:41,Makkah Central,Software & Firmware Glitch,Critical,In Progress,Abdullah Hawsawi,9,2026-10-28 03:41:41,,True
+TICK-1027,2026-10-22 17:40:10,Jeddah Coastal,New Terminal Installation,Medium,Resolved,Omar Al-Ghamdi,48,2026-10-24 17:40:10,2026-10-24 11:48:32,True
+TICK-1028,2026-10-27 22:03:10,Makkah Central,Software & Firmware Glitch,Low,In Progress,Abdullah Hawsawi,27,2026-10-29 01:03:10,,True
+TICK-1029,2026-10-22 22:51:04,Riyadh Metro,Paper Roll & Peripheral Setup,Medium,Resolved,Faisal Al-Harbi,36,2026-10-24 10:51:04,2026-10-24 05:45:49,True
+TICK-1030,2026-10-15 16:36:59,Jeddah Coastal,Hardware Malfunction,Low,Resolved,Yousef Bakhsh,36,2026-10-17 04:36:59,2026-10-16 16:35:29,True
+TICK-1031,2026-10-24 11:36:10,Medina North,Network / Connectivity Offline,Medium,Pending Merchant Action,Hamza Al-Amri,12,2026-10-24 23:36:10,,True
+TICK-1032,2026-10-20 11:18:01,Medina North,New Terminal Installation,High,Resolved,Hamza Al-Amri,36,2026-10-21 23:18:01,2026-10-20 17:06:21,True
+TICK-1033,2026-10-19 04:48:13,Medina North,New Terminal Installation,High,Resolved,Hamza Al-Amri,36,2026-10-20 16:48:13,2026-10-21 12:08:37,True
+TICK-1034,2026-10-22 18:33:34,Jeddah Coastal,Network / Connectivity Offline,Critical,Resolved,Omar Al-Ghamdi,6,2026-10-23 00:33:34,2026-10-22 23:55:12,True
+TICK-1035,2026-10-23 02:24:42,Jeddah Coastal,Network / Connectivity Offline,High,Resolved,Yousef Bakhsh,9,2026-10-23 11:24:42,2026-10-23 05:27:25,True
+TICK-1036,2026-10-27 14:27:27,Riyadh Metro,New Terminal Installation,Medium,Resolved,Tariq Al-Mansoor,48,2026-10-29 14:27:27,2026-10-28 15:42:00,True
+TICK-1037,2026-10-18 19:18:50,Jeddah Coastal,Hardware Malfunction,High,Resolved,Noura Al-Saeed,18,2026-10-19 13:18:50,2026-10-19 06:40:12,True
+TICK-1038,2026-10-15 12:27:30,Riyadh Metro,Network / Connectivity Offline,Medium,Resolved,Tariq Al-Mansoor,12,2026-10-16 00:27:30,2026-10-16 02:07:19,True
+TICK-1039,2026-10-18 14:35:59,Medina North,New Terminal Installation,High,Resolved,Hamza Al-Amri,36,2026-10-20 02:35:59,2026-10-18 23:59:46,True
+TICK-1040,2026-10-27 08:04:48,Makkah Central,New Terminal Installation,Low,Resolved,Abdullah Hawsawi,72,2026-10-30 08:04:48,2026-10-27 08:49:14,True
+TICK-1041,2026-10-22 10:59:06,Jeddah Coastal,Network / Connectivity Offline,High,Resolved,Noura Al-Saeed,9,2026-10-22 19:59:06,2026-10-22 12:23:08,True
+TICK-1042,2026-10-20 21:54:14,Jeddah Coastal,Network / Connectivity Offline,Medium,Resolved,Noura Al-Saeed,12,2026-10-21 09:54:14,2026-10-21 13:09:53,True
+TICK-1043,2026-10-19 07:34:38,Riyadh Metro,Software & Firmware Glitch,High,Resolved,Faisal Al-Harbi,13,2026-10-19 20:34:38,2026-10-19 18:26:33,True
+TICK-1044,2026-10-16 13:21:25,Medina North,Software & Firmware Glitch,Low,In Progress,Hamza Al-Amri,27,2026-10-17 16:21:25,,True
+TICK-1045,2026-10-17 16:54:01,Makkah Central,New Terminal Installation,Medium,Resolved,Ibrahim Fallatah,48,2026-10-19 16:54:01,2026-10-19 02:33:05,True
+TICK-1046,2026-10-23 06:50:54,Jeddah Coastal,New Terminal Installation,Medium,Resolved,Omar Al-Ghamdi,48,2026-10-25 06:50:54,2026-10-23 16:20:57,True
+TICK-1047,2026-10-25 12:19:14,Makkah Central,Hardware Malfunction,Medium,Resolved,Abdullah Hawsawi,24,2026-10-26 12:19:14,2026-10-25 19:02:00,True
+TICK-1048,2026-10-19 03:21:41,Riyadh Metro,Paper Roll & Peripheral Setup,High,Resolved,Hassan Al-Zahrani,27,2026-10-20 06:21:41,2026-10-19 04:33:20,True
+TICK-1049,2026-10-28 02:11:01,Dammam Eastern,New Terminal Installation,Low,Dispatched,Ali Al-Khaldi,72,2026-10-31 02:11:01,,True
+TICK-1050,2026-10-23 05:57:34,Dammam Eastern,Hardware Malfunction,Low,Resolved,Khaled Al-Dossary,36,2026-10-24 17:57:34,2026-10-24 06:20:44,True
+TICK-1051,2026-10-23 12:59:08,Riyadh Metro,Hardware Malfunction,Medium,Resolved,Faisal Al-Harbi,24,2026-10-24 12:59:08,2026-10-23 20:50:57,True
+TICK-1052,2026-10-21 13:06:50,Dammam Eastern,Network / Connectivity Offline,Critical,Resolved,Ali Al-Khaldi,6,2026-10-21 19:06:50,2026-10-21 17:14:22,True
+TICK-1053,2026-10-19 04:05:54,Medina North,New Terminal Installation,High,Pending Merchant Action,Saud Al-Balawi,36,2026-10-20 16:05:54,,True
+TICK-1054,2026-10-24 09:12:06,Medina North,Hardware Malfunction,Medium,Resolved,Hamza Al-Amri,24,2026-10-25 09:12:06,2026-10-24 23:13:49,True
+TICK-1055,2026-10-21 11:45:24,Dammam Eastern,Hardware Malfunction,High,Resolved,Khaled Al-Dossary,18,2026-10-22 05:45:24,2026-10-22 00:28:25,True
+TICK-1056,2026-10-27 07:42:55,Riyadh Metro,Hardware Malfunction,Medium,In Progress,Reem Al-Otaibi,24,2026-10-28 07:42:55,,True
+TICK-1057,2026-10-27 23:31:06,Dammam Eastern,New Terminal Installation,High,Pending Merchant Action,Khaled Al-Dossary,36,2026-10-29 11:31:06,,True
+TICK-1058,2026-10-18 14:21:14,Riyadh Metro,Hardware Malfunction,Low,Resolved,Faisal Al-Harbi,36,2026-10-20 02:21:14,2026-10-18 19:49:38,True
+TICK-1059,2026-10-17 18:13:44,Riyadh Metro,Software & Firmware Glitch,Low,Resolved,Tariq Al-Mansoor,27,2026-10-18 21:13:44,2026-10-18 12:13:52,True
+TICK-1060,2026-10-22 06:05:07,Makkah Central,New Terminal Installation,High,Resolved,Abdullah Hawsawi,36,2026-10-23 18:05:07,2026-10-23 15:52:38,True
+TICK-1061,2026-10-20 01:45:41,Medina North,Hardware Malfunction,Medium,Resolved,Saud Al-Balawi,24,2026-10-21 01:45:41,2026-10-20 20:46:59,True
+TICK-1062,2026-10-22 08:13:35,Medina North,Hardware Malfunction,High,Resolved,Saud Al-Balawi,18,2026-10-23 02:13:35,2026-10-22 13:19:47,True
+TICK-1063,2026-10-27 13:02:35,Medina North,Hardware Malfunction,High,Resolved,Saud Al-Balawi,18,2026-10-28 07:02:35,2026-10-27 18:51:00,True
+TICK-1064,2026-10-18 22:31:36,Medina North,New Terminal Installation,High,Resolved,Saud Al-Balawi,36,2026-10-20 10:31:36,2026-10-20 19:55:24,True
+TICK-1065,2026-10-23 04:31:30,Medina North,Hardware Malfunction,Critical,Resolved,Saud Al-Balawi,12,2026-10-23 16:31:30,2026-10-23 05:14:17,True
+TICK-1066,2026-10-24 10:57:53,Medina North,Hardware Malfunction,Critical,Resolved,Saud Al-Balawi,12,2026-10-24 22:57:53,2026-10-24 20:34:27,True
+TICK-1067,2026-10-21 19:26:35,Medina North,Software & Firmware Glitch,Medium,Resolved,Hamza Al-Amri,18,2026-10-22 13:26:35,2026-10-22 02:23:53,True
+TICK-1068,2026-10-14 22:27:29,Makkah Central,Network / Connectivity Offline,Medium,Resolved,Abdullah Hawsawi,12,2026-10-15 10:27:29,2026-10-15 05:24:35,True
+TICK-1069,2026-10-26 02:07:14,Riyadh Metro,New Terminal Installation,High,Resolved,Hassan Al-Zahrani,36,2026-10-27 14:07:14,2026-10-26 17:56:38,True
+TICK-1070,2026-10-25 02:29:20,Dammam Eastern,Software & Firmware Glitch,High,Resolved,Ali Al-Khaldi,13,2026-10-25 15:29:20,2026-10-25 20:09:25,True
+TICK-1071,2026-10-28 01:30:48,Dammam Eastern,New Terminal Installation,Critical,Resolved,Mona Al-Qahtani,24,2026-10-29 01:30:48,2026-10-28 14:31:00,True
+TICK-1072,2026-10-20 18:04:12,Jeddah Coastal,New Terminal Installation,Medium,Resolved,Omar Al-Ghamdi,48,2026-10-22 18:04:12,2026-10-22 05:09:26,True
+TICK-1073,2026-10-27 00:37:53,Jeddah Coastal,Network / Connectivity Offline,Low,Dispatched,Noura Al-Saeed,18,2026-10-27 18:37:53,,True
+TICK-1074,2026-10-23 02:07:14,Riyadh Metro,Network / Connectivity Offline,Low,Resolved,Hassan Al-Zahrani,18,2026-10-23 20:07:14,2026-10-24 03:53:19,True
+TICK-1075,2026-10-20 05:51:43,Jeddah Coastal,New Terminal Installation,Medium,Resolved,Noura Al-Saeed,48,2026-10-22 05:51:43,2026-10-21 17:39:32,True
+TICK-1076,2026-10-21 13:30:11,Dammam Eastern,Network / Connectivity Offline,Medium,Resolved,Khaled Al-Dossary,12,2026-10-22 01:30:11,2026-10-21 22:57:59,True
+TICK-1077,2026-10-18 18:03:05,Riyadh Metro,Hardware Malfunction,High,Resolved,Hassan Al-Zahrani,18,2026-10-19 12:03:05,2026-10-19 10:34:42,True
+TICK-1078,2026-10-22 03:16:02,Dammam Eastern,Network / Connectivity Offline,Low,Resolved,Ali Al-Khaldi,18,2026-10-22 21:16:02,2026-10-22 09:07:03,True
+TICK-1079,2026-10-25 05:18:20,Jeddah Coastal,Software & Firmware Glitch,Critical,Resolved,Yousef Bakhsh,9,2026-10-25 14:18:20,2026-10-25 08:51:23,True
+TICK-1080,2026-10-25 15:56:23,Riyadh Metro,Hardware Malfunction,High,Resolved,Hassan Al-Zahrani,18,2026-10-26 09:56:23,2026-10-26 07:03:11,True
+TICK-1081,2026-10-27 10:19:10,Dammam Eastern,Network / Connectivity Offline,Medium,Dispatched,Khaled Al-Dossary,12,2026-10-27 22:19:10,,True
+TICK-1082,2026-10-22 08:51:41,Medina North,Software & Firmware Glitch,Medium,Resolved,Saud Al-Balawi,18,2026-10-23 02:51:41,2026-10-22 16:04:28,True
+TICK-1083,2026-10-20 21:35:11,Jeddah Coastal,Hardware Malfunction,Medium,Resolved,Yousef Bakhsh,24,2026-10-21 21:35:11,2026-10-21 10:21:36,True
+TICK-1084,2026-10-25 09:46:11,Dammam Eastern,Network / Connectivity Offline,High,Resolved,Ali Al-Khaldi,9,2026-10-25 18:46:11,2026-10-25 16:14:59,True
+TICK-1085,2026-10-18 12:15:50,Jeddah Coastal,New Terminal Installation,Medium,Pending Merchant Action,Yousef Bakhsh,48,2026-10-20 12:15:50,,True
+TICK-1086,2026-10-24 11:45:26,Medina North,Hardware Malfunction,Critical,Resolved,Hamza Al-Amri,12,2026-10-24 23:45:26,2026-10-24 19:58:29,True
+TICK-1087,2026-10-24 13:08:03,Jeddah Coastal,New Terminal Installation,Low,Pending Merchant Action,Noura Al-Saeed,72,2026-10-27 13:08:03,,True
+TICK-1088,2026-10-22 01:45:07,Makkah Central,New Terminal Installation,Critical,Resolved,Ibrahim Fallatah,24,2026-10-23 01:45:07,2026-10-23 03:26:25,True
+TICK-1089,2026-10-27 14:10:56,Makkah Central,New Terminal Installation,Critical,In Progress,Ibrahim Fallatah,24,2026-10-28 14:10:56,,True
+TICK-1090,2026-10-27 10:27:51,Jeddah Coastal,New Terminal Installation,Medium,Resolved,Yousef Bakhsh,48,2026-10-29 10:27:51,2026-10-28 05:44:01,True
+TICK-1091,2026-10-22 08:04:39,Medina North,Software & Firmware Glitch,High,Resolved,Saud Al-Balawi,13,2026-10-22 21:04:39,2026-10-22 20:18:34,True
+TICK-1092,2026-10-27 05:45:24,Dammam Eastern,Network / Connectivity Offline,Critical,Pending Merchant Action,Mona Al-Qahtani,6,2026-10-27 11:45:24,,True
+TICK-1093,2026-10-26 04:46:20,Jeddah Coastal,New Terminal Installation,Critical,Resolved,Omar Al-Ghamdi,24,2026-10-27 04:46:20,2026-10-27 11:48:33,True
+TICK-1094,2026-10-18 18:10:11,Medina North,Hardware Malfunction,Critical,Resolved,Saud Al-Balawi,12,2026-10-19 06:10:11,2026-10-19 02:09:44,True
+TICK-1095,2026-10-17 09:41:29,Dammam Eastern,Software & Firmware Glitch,Medium,Resolved,Mona Al-Qahtani,18,2026-10-18 03:41:29,2026-10-18 06:53:41,True
+TICK-1096,2026-10-27 19:01:16,Jeddah Coastal,Paper Roll & Peripheral Setup,Medium,Pending Merchant Action,Omar Al-Ghamdi,36,2026-10-29 07:01:16,,True
+TICK-1097,2026-10-19 00:17:34,Medina North,Paper Roll & Peripheral Setup,High,Resolved,Saud Al-Balawi,27,2026-10-20 03:17:34,2026-10-19 13:22:47,True
+TICK-1098,2026-10-18 08:55:52,Makkah Central,Hardware Malfunction,Medium,Resolved,Ibrahim Fallatah,24,2026-10-19 08:55:52,2026-10-19 12:59:55,True
+TICK-1099,2026-10-20 13:57:26,Medina North,Network / Connectivity Offline,Critical,Resolved,Saud Al-Balawi,6,2026-10-20 19:57:26,2026-10-20 22:30:50,True
+TICK-1100,2026-10-19 18:20:49,Makkah Central,Paper Roll & Peripheral Setup,High,Resolved,Ibrahim Fallatah,27,2026-10-20 21:20:49,2026-10-21 03:38:10,True
+TICK-1101,2026-10-24 00:30:56,Dammam Eastern,Hardware Malfunction,Critical,Resolved,Khaled Al-Dossary,12,2026-10-24 12:30:56,2026-10-24 11:19:06,True
+TICK-1102,2026-10-24 02:42:11,Medina North,New Terminal Installation,Critical,Dispatched,Saud Al-Balawi,24,2026-10-25 02:42:11,,True
+TICK-1103,2026-10-22 20:33:43,Medina North,Software & Firmware Glitch,Critical,Resolved,Saud Al-Balawi,9,2026-10-23 05:33:43,2026-10-23 03:09:05,True
+TICK-1104,2026-10-15 16:13:46,Makkah Central,Software & Firmware Glitch,High,Resolved,Abdullah Hawsawi,13,2026-10-16 05:13:46,2026-10-15 18:10:06,True
+TICK-1105,2026-10-20 22:28:08,Medina North,Software & Firmware Glitch,Medium,Resolved,Saud Al-Balawi,18,2026-10-21 16:28:08,2026-10-22 03:11:34,True
+TICK-1106,2026-10-21 16:02:39,Riyadh Metro,Hardware Malfunction,Critical,Resolved,Faisal Al-Harbi,12,2026-10-22 04:02:39,2026-10-21 19:31:28,True
+TICK-1107,2026-10-23 06:29:55,Makkah Central,Paper Roll & Peripheral Setup,High,Pending Merchant Action,Abdullah Hawsawi,27,2026-10-24 09:29:55,,True
+TICK-1108,2026-10-23 21:08:30,Jeddah Coastal,Software & Firmware Glitch,High,Resolved,Yousef Bakhsh,13,2026-10-24 10:08:30,2026-10-23 21:40:19,True
+TICK-1109,2026-10-21 18:58:13,Dammam Eastern,Software & Firmware Glitch,Medium,Resolved,Mona Al-Qahtani,18,2026-10-22 12:58:13,2026-10-22 01:11:58,True
+TICK-1110,2026-10-16 11:41:00,Medina North,Software & Firmware Glitch,High,In Progress,Saud Al-Balawi,13,2026-10-17 00:41:00,,True
+TICK-1111,2026-10-28 00:22:41,Medina North,Hardware Malfunction,Low,Pending Merchant Action,Saud Al-Balawi,36,2026-10-29 12:22:41,,True
+TICK-1112,2026-10-21 17:03:53,Makkah Central,Hardware Malfunction,Medium,Resolved,Abdullah Hawsawi,24,2026-10-22 17:03:53,2026-10-22 06:43:33,True
+TICK-1113,2026-10-28 09:51:30,Riyadh Metro,Software & Firmware Glitch,High,Resolved,Hassan Al-Zahrani,13,2026-10-28 22:51:30,2026-10-28 15:41:00,True
+TICK-1114,2026-10-19 13:18:16,Makkah Central,Software & Firmware Glitch,High,Pending Merchant Action,Ibrahim Fallatah,13,2026-10-20 02:18:16,,True
+TICK-1115,2026-10-16 10:45:06,Medina North,Hardware Malfunction,High,Resolved,Saud Al-Balawi,18,2026-10-17 04:45:06,2026-10-17 11:56:13,True
+TICK-1116,2026-10-14 23:15:24,Dammam Eastern,Paper Roll & Peripheral Setup,Medium,Resolved,Ali Al-Khaldi,36,2026-10-16 11:15:24,2026-10-15 03:08:38,True
+TICK-1117,2026-10-24 02:20:04,Jeddah Coastal,Network / Connectivity Offline,Low,Resolved,Omar Al-Ghamdi,18,2026-10-24 20:20:04,2026-10-24 09:59:01,True
+TICK-1118,2026-10-26 06:03:19,Jeddah Coastal,Network / Connectivity Offline,Medium,Resolved,Omar Al-Ghamdi,12,2026-10-26 18:03:19,2026-10-26 13:18:37,True
+TICK-1119,2026-10-22 04:30:53,Jeddah Coastal,Hardware Malfunction,Medium,Resolved,Omar Al-Ghamdi,24,2026-10-23 04:30:53,2026-10-22 05:13:27,True
+TICK-1120,2026-10-27 14:15:22,Makkah Central,Paper Roll & Peripheral Setup,Medium,Pending Merchant Action,Abdullah Hawsawi,36,2026-10-29 02:15:22,,True
+TICK-1121,2026-10-22 05:57:36,Dammam Eastern,Network / Connectivity Offline,High,Resolved,Ali Al-Khaldi,9,2026-10-22 14:57:36,2026-10-22 13:19:45,True
+TICK-1122,2026-10-14 18:26:53,Riyadh Metro,New Terminal Installation,Medium,Resolved,Reem Al-Otaibi,48,2026-10-16 18:26:53,2026-10-16 00:38:03,True
+TICK-1123,2026-10-15 00:50:35,Dammam Eastern,New Terminal Installation,Low,Pending Merchant Action,Mona Al-Qahtani,72,2026-10-18 00:50:35,,True
+TICK-1124,2026-10-20 03:37:59,Makkah Central,Software & Firmware Glitch,Low,Resolved,Abdullah Hawsawi,27,2026-10-21 06:37:59,2026-10-20 19:44:55,True
+TICK-1125,2026-10-28 01:47:36,Jeddah Coastal,Network / Connectivity Offline,Low,In Progress,Noura Al-Saeed,18,2026-10-28 19:47:36,,True
+TICK-1126,2026-10-24 01:32:56,Medina North,Hardware Malfunction,Critical,Resolved,Saud Al-Balawi,12,2026-10-24 13:32:56,2026-10-24 19:25:31,True
+TICK-1127,2026-10-25 00:54:54,Dammam Eastern,Network / Connectivity Offline,Low,Resolved,Khaled Al-Dossary,18,2026-10-25 18:54:54,2026-10-25 14:48:09,True
+TICK-1128,2026-10-26 15:50:47,Dammam Eastern,Software & Firmware Glitch,Medium,Pending Merchant Action,Khaled Al-Dossary,18,2026-10-27 09:50:47,,True
+TICK-1129,2026-10-27 08:44:54,Makkah Central,Paper Roll & Peripheral Setup,Medium,Resolved,Ibrahim Fallatah,36,2026-10-28 20:44:54,2026-10-27 13:24:48,True
+TICK-1130,2026-10-23 07:21:23,Dammam Eastern,Network / Connectivity Offline,Medium,Resolved,Mona Al-Qahtani,12,2026-10-23 19:21:23,2026-10-23 15:12:43,True
+TICK-1131,2026-10-15 20:23:21,Makkah Central,New Terminal Installation,Low,Resolved,Ibrahim Fallatah,72,2026-10-18 20:23:21,2026-10-20 08:09:21,True
+TICK-1132,2026-10-15 10:00:08,Dammam Eastern,Network / Connectivity Offline,Critical,Resolved,Khaled Al-Dossary,6,2026-10-15 16:00:08,2026-10-15 11:00:28,True
+TICK-1133,2026-10-20 10:14:27,Medina North,New Terminal Installation,Medium,Resolved,Saud Al-Balawi,48,2026-10-22 10:14:27,2026-10-21 16:16:40,True
+TICK-1134,2026-10-28 04:02:24,Makkah Central,Network / Connectivity Offline,Low,Resolved,Ibrahim Fallatah,18,2026-10-28 22:02:24,2026-10-28 14:01:00,True
+TICK-1135,2026-10-16 00:55:54,Dammam Eastern,New Terminal Installation,Medium,Resolved,Mona Al-Qahtani,48,2026-10-18 00:55:54,2026-10-18 09:36:04,True
+TICK-1136,2026-10-19 08:58:20,Riyadh Metro,Paper Roll & Peripheral Setup,Medium,Resolved,Tariq Al-Mansoor,36,2026-10-20 20:58:20,2026-10-19 10:11:31,True
+TICK-1137,2026-10-25 18:15:22,Dammam Eastern,New Terminal Installation,Critical,Pending Merchant Action,Mona Al-Qahtani,24,2026-10-26 18:15:22,,True
+TICK-1138,2026-10-24 00:55:57,Jeddah Coastal,Network / Connectivity Offline,Medium,Resolved,Omar Al-Ghamdi,12,2026-10-24 12:55:57,2026-10-24 01:27:48,True
+TICK-1139,2026-10-27 02:10:28,Jeddah Coastal,Paper Roll & Peripheral Setup,Medium,In Progress,Omar Al-Ghamdi,36,2026-10-28 14:10:28,,True
+TICK-1140,2026-10-28 09:42:48,Riyadh Metro,Hardware Malfunction,Medium,Resolved,Reem Al-Otaibi,24,2026-10-29 09:42:48,2026-10-28 15:36:00,True
+TICK-1141,2026-10-22 07:34:41,Riyadh Metro,Hardware Malfunction,Medium,Resolved,Tariq Al-Mansoor,24,2026-10-23 07:34:41,2026-10-23 00:17:44,True
+TICK-1142,2026-10-27 18:37:24,Medina North,Hardware Malfunction,Medium,Dispatched,Hamza Al-Amri,24,2026-10-28 18:37:24,,True
+TICK-1143,2026-10-27 14:22:50,Makkah Central,Network / Connectivity Offline,Medium,Resolved,Ibrahim Fallatah,12,2026-10-28 02:22:50,2026-10-27 15:35:47,True
+TICK-1144,2026-10-24 02:03:46,Dammam Eastern,Network / Connectivity Offline,Medium,Pending Merchant Action,Mona Al-Qahtani,12,2026-10-24 14:03:46,,True
+TICK-1145,2026-10-17 13:18:46,Dammam Eastern,Hardware Malfunction,Medium,Resolved,Khaled Al-Dossary,24,2026-10-18 13:18:46,2026-10-18 09:23:08,True
+TICK-1146,2026-10-16 05:29:22,Medina North,Network / Connectivity Offline,High,Resolved,Saud Al-Balawi,9,2026-10-16 14:29:22,2026-10-16 09:11:57,True
+TICK-1147,2026-10-23 09:36:32,Riyadh Metro,Hardware Malfunction,High,Resolved,Reem Al-Otaibi,18,2026-10-24 03:36:32,2026-10-23 11:13:24,True
+TICK-1148,2026-10-17 07:03:26,Riyadh Metro,New Terminal Installation,Critical,Resolved,Reem Al-Otaibi,24,2026-10-18 07:03:26,2026-10-17 20:04:50,True
+TICK-1149,2026-10-15 11:43:17,Dammam Eastern,Network / Connectivity Offline,High,Resolved,Mona Al-Qahtani,9,2026-10-15 20:43:17,2026-10-15 12:38:08,True
+TICK-1150,2026-10-21 13:01:00,Dammam Eastern,Network / Connectivity Offline,High,Resolved,Mona Al-Qahtani,9,2026-10-21 22:01:00,2026-10-21 20:20:14,True
+TICK-1151,2026-10-20 14:40:35,Dammam Eastern,Software & Firmware Glitch,High,Resolved,Ali Al-Khaldi,13,2026-10-21 03:40:35,2026-10-21 02:43:29,True
+TICK-1152,2026-10-20 02:59:12,Medina North,Network / Connectivity Offline,Medium,Resolved,Hamza Al-Amri,12,2026-10-20 14:59:12,2026-10-20 03:48:08,True
+TICK-1153,2026-10-23 17:24:25,Dammam Eastern,Network / Connectivity Offline,High,Resolved,Ali Al-Khaldi,9,2026-10-24 02:24:25,2026-10-24 06:17:58,True
+TICK-1154,2026-10-27 08:15:40,Riyadh Metro,New Terminal Installation,Medium,Dispatched,Tariq Al-Mansoor,48,2026-10-29 08:15:40,,True
+TICK-1155,2026-10-18 13:15:55,Makkah Central,Hardware Malfunction,High,Resolved,Ibrahim Fallatah,18,2026-10-19 07:15:55,2026-10-18 15:10:32,True
+TICK-1156,2026-10-19 05:13:13,Riyadh Metro,New Terminal Installation,Medium,Resolved,Tariq Al-Mansoor,48,2026-10-21 05:13:13,2026-10-20 03:37:25,True
+TICK-1157,2026-10-23 19:22:01,Makkah Central,Hardware Malfunction,High,Resolved,Abdullah Hawsawi,18,2026-10-24 13:22:01,2026-10-24 05:42:47,True
+TICK-1158,2026-10-14 21:12:38,Medina North,Network / Connectivity Offline,Critical,Resolved,Saud Al-Balawi,6,2026-10-15 03:12:38,2026-10-15 07:02:48,True
+TICK-1159,2026-10-28 12:24:37,Jeddah Coastal,Software & Firmware Glitch,High,In Progress,Omar Al-Ghamdi,13,2026-10-29 01:24:37,,True
+TICK-1160,2026-10-20 19:49:39,Jeddah Coastal,Hardware Malfunction,Medium,Resolved,Noura Al-Saeed,24,2026-10-21 19:49:39,2026-10-21 05:10:56,True
+TICK-1161,2026-10-16 14:11:35,Riyadh Metro,Hardware Malfunction,Medium,Resolved,Tariq Al-Mansoor,24,2026-10-17 14:11:35,2026-10-17 06:30:53,True
+TICK-1162,2026-10-26 05:25:20,Makkah Central,Hardware Malfunction,High,Dispatched,Ibrahim Fallatah,18,2026-10-26 23:25:20,,True
+TICK-1163,2026-10-22 13:02:54,Dammam Eastern,New Terminal Installation,Medium,Resolved,Khaled Al-Dossary,48,2026-10-24 13:02:54,2026-10-25 14:14:56,True
+TICK-1164,2026-10-21 11:59:17,Dammam Eastern,New Terminal Installation,Medium,Resolved,Khaled Al-Dossary,48,2026-10-23 11:59:17,2026-10-23 05:20:42,True
+TICK-1165,2026-10-17 05:57:45,Dammam Eastern,Hardware Malfunction,Low,Resolved,Mona Al-Qahtani,36,2026-10-18 17:57:45,2026-10-18 23:01:35,True
+TICK-1166,2026-10-26 03:39:21,Medina North,New Terminal Installation,Medium,Dispatched,Hamza Al-Amri,48,2026-10-28 03:39:21,,True
+TICK-1167,2026-10-19 02:49:13,Makkah Central,Software & Firmware Glitch,Medium,Pending Merchant Action,Ibrahim Fallatah,18,2026-10-19 20:49:13,,True
+TICK-1168,2026-10-26 12:25:45,Medina North,Hardware Malfunction,Low,Resolved,Saud Al-Balawi,36,2026-10-28 00:25:45,2026-10-26 23:08:03,True
+TICK-1169,2026-10-24 07:00:48,Dammam Eastern,Network / Connectivity Offline,High,Resolved,Khaled Al-Dossary,9,2026-10-24 16:00:48,2026-10-24 20:40:22,True
+TICK-1170,2026-10-20 00:58:19,Riyadh Metro,Network / Connectivity Offline,Low,Resolved,Tariq Al-Mansoor,18,2026-10-20 18:58:19,2026-10-20 10:40:25,True
+TICK-1171,2026-10-24 03:17:18,Riyadh Metro,Hardware Malfunction,Medium,Resolved,Faisal Al-Harbi,24,2026-10-25 03:17:18,2026-10-25 05:07:03,True
+TICK-1172,2026-10-21 13:58:33,Riyadh Metro,Software & Firmware Glitch,Medium,Resolved,Tariq Al-Mansoor,18,2026-10-22 07:58:33,2026-10-21 21:44:34,True
+TICK-1173,2026-10-23 10:05:40,Makkah Central,Network / Connectivity Offline,Medium,Resolved,Ibrahim Fallatah,12,2026-10-23 22:05:40,2026-10-23 14:16:58,True
+TICK-1174,2026-10-27 16:55:10,Medina North,New Terminal Installation,Medium,Resolved,Saud Al-Balawi,48,2026-10-29 16:55:10,2026-10-28 06:14:04,True
+TICK-1175,2026-10-15 19:53:23,Medina North,Software & Firmware Glitch,High,Resolved,Hamza Al-Amri,13,2026-10-16 08:53:23,2026-10-16 04:14:10,True
+TICK-1176,2026-10-20 19:45:39,Jeddah Coastal,Network / Connectivity Offline,Low,Resolved,Yousef Bakhsh,18,2026-10-21 13:45:39,2026-10-20 22:22:56,True
+TICK-1177,2026-10-28 08:53:33,Medina North,New Terminal Installation,Medium,Resolved,Saud Al-Balawi,48,2026-10-30 08:53:33,2026-10-28 14:12:00,True
+TICK-1178,2026-10-27 13:08:58,Makkah Central,New Terminal Installation,Low,In Progress,Abdullah Hawsawi,72,2026-10-30 13:08:58,,True
+TICK-1179,2026-10-19 09:15:13,Medina North,Software & Firmware Glitch,Medium,Pending Merchant Action,Hamza Al-Amri,18,2026-10-20 03:15:13,,True
+TICK-1180,2026-10-17 00:29:57,Jeddah Coastal,Network / Connectivity Offline,High,Resolved,Omar Al-Ghamdi,9,2026-10-17 09:29:57,2026-10-17 02:19:55,True
+TICK-1181,2026-10-15 02:11:16,Makkah Central,New Terminal Installation,High,Resolved,Abdullah Hawsawi,36,2026-10-16 14:11:16,2026-10-16 05:06:06,True
+TICK-1182,2026-10-16 00:10:06,Jeddah Coastal,Network / Connectivity Offline,High,Resolved,Yousef Bakhsh,9,2026-10-16 09:10:06,2026-10-16 05:15:37,True
+TICK-1183,2026-10-21 14:31:34,Makkah Central,Hardware Malfunction,High,Resolved,Ibrahim Fallatah,18,2026-10-22 08:31:34,2026-10-22 11:28:59,True
+TICK-1184,2026-10-16 10:10:14,Medina North,New Terminal Installation,High,Resolved,Saud Al-Balawi,36,2026-10-17 22:10:14,2026-10-18 16:35:46,True
+TICK-1185,2026-10-22 08:28:41,Riyadh Metro,Hardware Malfunction,Medium,Resolved,Reem Al-Otaibi,24,2026-10-23 08:28:41,2026-10-22 11:01:23,True
+TICK-1186,2026-10-22 20:00:34,Jeddah Coastal,Software & Firmware Glitch,Low,Resolved,Omar Al-Ghamdi,27,2026-10-23 23:00:34,2026-10-23 06:13:17,True
+TICK-1187,2026-10-16 21:52:33,Riyadh Metro,Hardware Malfunction,Critical,Resolved,Tariq Al-Mansoor,12,2026-10-17 09:52:33,2026-10-16 23:52:32,True
+TICK-1188,2026-10-18 00:47:17,Dammam Eastern,Paper Roll & Peripheral Setup,Medium,Resolved,Khaled Al-Dossary,36,2026-10-19 12:47:17,2026-10-19 07:48:56,True
+TICK-1189,2026-10-27 01:45:08,Riyadh Metro,New Terminal Installation,Medium,Resolved,Hassan Al-Zahrani,48,2026-10-29 01:45:08,2026-10-27 04:24:21,True
+TICK-1190,2026-10-27 01:51:45,Makkah Central,Network / Connectivity Offline,Medium,Pending Merchant Action,Abdullah Hawsawi,12,2026-10-27 13:51:45,,True
+TICK-1191,2026-10-18 14:17:15,Medina North,New Terminal Installation,Medium,Resolved,Hamza Al-Amri,48,2026-10-20 14:17:15,2026-10-21 01:05:45,True
+TICK-1192,2026-10-21 07:37:57,Medina North,Hardware Malfunction,Medium,Resolved,Hamza Al-Amri,24,2026-10-22 07:37:57,2026-10-21 20:15:56,True
+TICK-1193,2026-10-28 00:24:57,Medina North,Network / Connectivity Offline,High,Resolved,Saud Al-Balawi,9,2026-10-28 09:24:57,2026-10-28 06:55:54,True
+TICK-1194,2026-10-19 10:52:12,Dammam Eastern,Software & Firmware Glitch,High,Resolved,Mona Al-Qahtani,13,2026-10-19 23:52:12,2026-10-19 20:20:12,True
+TICK-1195,2026-10-26 04:20:42,Jeddah Coastal,New Terminal Installation,Medium,Dispatched,Noura Al-Saeed,48,2026-10-28 04:20:42,,True
+TICK-1196,2026-10-18 15:07:29,Makkah Central,Network / Connectivity Offline,Medium,In Progress,Abdullah Hawsawi,12,2026-10-19 03:07:29,,True
+TICK-1197,2026-10-24 05:16:31,Dammam Eastern,New Terminal Installation,Medium,Resolved,Khaled Al-Dossary,48,2026-10-26 05:16:31,2026-10-25 18:33:00,True
+TICK-1198,2026-10-24 15:09:10,Makkah Central,New Terminal Installation,Medium,In Progress,Abdullah Hawsawi,48,2026-10-26 15:09:10,,True
+TICK-1199,2026-10-16 05:01:19,Dammam Eastern,New Terminal Installation,Medium,Resolved,Ali Al-Khaldi,48,2026-10-18 05:01:19,2026-10-16 22:57:34,True
+TICK-1200,2026-10-24 21:38:54,Jeddah Coastal,Hardware Malfunction,Medium,Resolved,Noura Al-Saeed,24,2026-10-25 21:38:54,2026-10-25 07:45:03,True
+TICK-1201,2026-10-24 01:08:48,Jeddah Coastal,Network / Connectivity Offline,High,Resolved,Omar Al-Ghamdi,9,2026-10-24 10:08:48,2026-10-24 07:25:26,True
+TICK-1202,2026-10-18 11:31:01,Jeddah Coastal,Network / Connectivity Offline,High,Pending Merchant Action,Omar Al-Ghamdi,9,2026-10-18 20:31:01,,True
+TICK-1203,2026-10-27 13:51:40,Makkah Central,New Terminal Installation,Low,Dispatched,Abdullah Hawsawi,72,2026-10-30 13:51:40,,True
+TICK-1204,2026-10-26 15:10:07,Medina North,Software & Firmware Glitch,Medium,Dispatched,Hamza Al-Amri,18,2026-10-27 09:10:07,,True
+TICK-1205,2026-10-23 13:40:46,Riyadh Metro,New Terminal Installation,High,In Progress,Reem Al-Otaibi,36,2026-10-25 01:40:46,,True
+TICK-1206,2026-10-23 10:22:31,Medina North,New Terminal Installation,High,Resolved,Saud Al-Balawi,36,2026-10-24 22:22:31,2026-10-24 04:43:05,True
+TICK-1207,2026-10-28 06:19:08,Makkah Central,Hardware Malfunction,High,Resolved,Abdullah Hawsawi,18,2026-10-29 00:19:08,2026-10-28 15:35:00,True
+TICK-1208,2026-10-14 17:13:03,Dammam Eastern,Software & Firmware Glitch,Medium,Resolved,Khaled Al-Dossary,18,2026-10-15 11:13:03,2026-10-15 01:52:17,True
+TICK-1209,2026-10-16 01:56:33,Riyadh Metro,New Terminal Installation,Critical,Resolved,Faisal Al-Harbi,24,2026-10-17 01:56:33,2026-10-17 12:04:49,True
+TICK-1210,2026-10-21 01:22:21,Dammam Eastern,Network / Connectivity Offline,Medium,In Progress,Mona Al-Qahtani,12,2026-10-21 13:22:21,,True
+TICK-1211,2026-10-14 20:58:50,Jeddah Coastal,Software & Firmware Glitch,Medium,Resolved,Omar Al-Ghamdi,18,2026-10-15 14:58:50,2026-10-15 05:40:52,True
+TICK-1212,2026-10-26 19:31:35,Dammam Eastern,Network / Connectivity Offline,High,In Progress,Mona Al-Qahtani,9,2026-10-27 04:31:35,,True
+TICK-1213,2026-10-21 06:53:31,Dammam Eastern,Hardware Malfunction,Medium,Resolved,Ali Al-Khaldi,24,2026-10-22 06:53:31,2026-10-21 09:02:11,True
+TICK-1214,2026-10-21 09:41:03,Dammam Eastern,Network / Connectivity Offline,High,Resolved,Mona Al-Qahtani,9,2026-10-21 18:41:03,2026-10-21 14:37:20,True
+TICK-1215,2026-10-21 14:32:26,Medina North,New Terminal Installation,Low,In Progress,Saud Al-Balawi,72,2026-10-24 14:32:26,,True
+TICK-1216,2026-10-15 13:51:46,Medina North,New Terminal Installation,High,Resolved,Saud Al-Balawi,36,2026-10-17 01:51:46,2026-10-16 07:50:58,True
+TICK-1217,2026-10-15 06:37:19,Dammam Eastern,Software & Firmware Glitch,High,Resolved,Mona Al-Qahtani,13,2026-10-15 19:37:19,2026-10-15 14:24:11,True
+TICK-1218,2026-10-26 05:38:52,Riyadh Metro,Hardware Malfunction,High,Pending Merchant Action,Faisal Al-Harbi,18,2026-10-26 23:38:52,,True
+TICK-1219,2026-10-27 11:47:25,Dammam Eastern,Software & Firmware Glitch,Medium,Pending Merchant Action,Khaled Al-Dossary,18,2026-10-28 05:47:25,,True
+TICK-1220,2026-10-19 23:56:01,Dammam Eastern,Network / Connectivity Offline,Medium,Resolved,Ali Al-Khaldi,12,2026-10-20 11:56:01,2026-10-20 06:22:49,True
+TICK-1221,2026-10-22 22:57:32,Dammam Eastern,Hardware Malfunction,Medium,Resolved,Mona Al-Qahtani,24,2026-10-23 22:57:32,2026-10-23 02:59:03,True
+TICK-1222,2026-10-24 06:17:05,Makkah Central,Hardware Malfunction,High,Resolved,Abdullah Hawsawi,18,2026-10-25 00:17:05,2026-10-24 21:04:25,True
+TICK-1223,2026-10-24 04:05:46,Makkah Central,New Terminal Installation,High,Resolved,Abdullah Hawsawi,36,2026-10-25 16:05:46,2026-10-24 12:57:03,True
+TICK-1224,2026-10-25 03:49:46,Riyadh Metro,New Terminal Installation,Low,In Progress,Hassan Al-Zahrani,72,2026-10-28 03:49:46,,True
+TICK-1225,2026-10-17 23:21:15,Dammam Eastern,Paper Roll & Peripheral Setup,Medium,Resolved,Khaled Al-Dossary,36,2026-10-19 11:21:15,2026-10-18 16:39:45,True
+TICK-1226,2026-10-21 13:40:33,Dammam Eastern,Hardware Malfunction,Critical,In Progress,Ali Al-Khaldi,12,2026-10-22 01:40:33,,True
+TICK-1227,2026-10-20 06:49:52,Medina North,Hardware Malfunction,Critical,Resolved,Saud Al-Balawi,12,2026-10-20 18:49:52,2026-10-20 10:26:45,True
+TICK-1228,2026-10-18 11:17:05,Riyadh Metro,Software & Firmware Glitch,High,Resolved,Reem Al-Otaibi,13,2026-10-19 00:17:05,2026-10-18 16:31:54,True
+TICK-1229,2026-10-27 14:22:00,Medina North,Network / Connectivity Offline,High,Pending Merchant Action,Saud Al-Balawi,9,2026-10-27 23:22:00,,True
+TICK-1230,2026-10-26 23:11:53,Dammam Eastern,Software & Firmware Glitch,Medium,Dispatched,Mona Al-Qahtani,18,2026-10-27 17:11:53,,True
+TICK-1231,2026-10-18 02:05:12,Dammam Eastern,Software & Firmware Glitch,High,Resolved,Ali Al-Khaldi,13,2026-10-18 15:05:12,2026-10-18 08:30:45,True
+TICK-1232,2026-10-21 09:01:24,Riyadh Metro,New Terminal Installation,Medium,Resolved,Hassan Al-Zahrani,48,2026-10-23 09:01:24,2026-10-21 15:49:39,True
+TICK-1233,2026-10-20 08:06:08,Medina North,Hardware Malfunction,High,Resolved,Saud Al-Balawi,18,2026-10-21 02:06:08,2026-10-20 16:44:01,True
+TICK-1234,2026-10-24 00:02:05,Medina North,Hardware Malfunction,Medium,Resolved,Saud Al-Balawi,24,2026-10-25 00:02:05,2026-10-24 07:23:45,True
+TICK-1235,2026-10-18 13:19:51,Riyadh Metro,Network / Connectivity Offline,High,Resolved,Faisal Al-Harbi,9,2026-10-18 22:19:51,2026-10-19 02:05:55,True
+TICK-1236,2026-10-28 04:25:25,Medina North,Software & Firmware Glitch,High,In Progress,Hamza Al-Amri,13,2026-10-28 17:25:25,,True
+TICK-1237,2026-10-22 20:39:30,Jeddah Coastal,New Terminal Installation,High,Resolved,Omar Al-Ghamdi,36,2026-10-24 08:39:30,2026-10-23 17:45:54,True
+TICK-1238,2026-10-18 18:33:55,Makkah Central,Software & Firmware Glitch,Medium,Resolved,Abdullah Hawsawi,18,2026-10-19 12:33:55,2026-10-19 11:38:02,True
+TICK-1239,2026-10-22 05:00:45,Makkah Central,Network / Connectivity Offline,High,Resolved,Abdullah Hawsawi,9,2026-10-22 14:00:45,2026-10-22 10:57:12,True
+TICK-1240,2026-10-24 17:31:58,Dammam Eastern,Network / Connectivity Offline,High,Resolved,Khaled Al-Dossary,9,2026-10-25 02:31:58,2026-10-25 01:56:24,True
+TICK-1241,2026-10-24 04:47:28,Dammam Eastern,Network / Connectivity Offline,Medium,Resolved,Ali Al-Khaldi,12,2026-10-24 16:47:28,2026-10-24 13:57:40,True
+TICK-1242,2026-10-23 07:48:08,Dammam Eastern,Hardware Malfunction,Medium,Dispatched,Mona Al-Qahtani,24,2026-10-24 07:48:08,,True
+TICK-1243,2026-10-27 12:31:30,Jeddah Coastal,Hardware Malfunction,High,Pending Merchant Action,Noura Al-Saeed,18,2026-10-28 06:31:30,,True
+TICK-1244,2026-10-24 20:10:13,Dammam Eastern,Software & Firmware Glitch,High,Resolved,Mona Al-Qahtani,13,2026-10-25 09:10:13,2026-10-24 21:57:53,True
+TICK-1245,2026-10-19 17:17:18,Medina North,New Terminal Installation,Critical,Resolved,Hamza Al-Amri,24,2026-10-20 17:17:18,2026-10-20 09:47:08,True
+TICK-1246,2026-10-22 22:41:09,Riyadh Metro,Network / Connectivity Offline,Critical,Dispatched,Faisal Al-Harbi,6,2026-10-23 04:41:09,,True
+TICK-1247,2026-10-24 03:24:31,Makkah Central,Network / Connectivity Offline,Medium,Resolved,Ibrahim Fallatah,12,2026-10-24 15:24:31,2026-10-24 04:53:02,True
+TICK-1248,2026-10-15 21:04:04,Medina North,New Terminal Installation,Medium,Resolved,Hamza Al-Amri,48,2026-10-17 21:04:04,2026-10-16 05:29:46,True
+TICK-1249,2026-10-26 00:35:08,Riyadh Metro,Paper Roll & Peripheral Setup,High,Dispatched,Hassan Al-Zahrani,27,2026-10-27 03:35:08,,True
+TICK-1250,2026-10-15 15:58:03,Riyadh Metro,New Terminal Installation,Medium,Resolved,Tariq Al-Mansoor,48,2026-10-17 15:58:03,2026-10-16 21:23:26,True
+TICK-1251,2026-10-24 19:35:58,Medina North,Hardware Malfunction,Low,Resolved,Saud Al-Balawi,36,2026-10-26 07:35:58,2026-10-25 20:44:17,True
+TICK-1252,2026-10-17 14:05:34,Dammam Eastern,Network / Connectivity Offline,Critical,Resolved,Ali Al-Khaldi,6,2026-10-17 20:05:34,2026-10-17 15:30:19,True
+TICK-1253,2026-10-23 00:43:15,Makkah Central,Software & Firmware Glitch,Medium,Resolved,Abdullah Hawsawi,18,2026-10-23 18:43:15,2026-10-23 09:08:47,True
+TICK-1254,2026-10-18 02:29:29,Jeddah Coastal,New Terminal Installation,High,Dispatched,Yousef Bakhsh,36,2026-10-19 14:29:29,,True
+TICK-1255,2026-10-18 22:55:21,Medina North,Network / Connectivity Offline,Critical,Resolved,Saud Al-Balawi,6,2026-10-19 04:55:21,2026-10-19 06:50:34,True
+TICK-1256,2026-10-18 23:45:09,Makkah Central,Network / Connectivity Offline,Low,Resolved,Ibrahim Fallatah,18,2026-10-19 17:45:09,2026-10-19 06:21:14,True
+TICK-1257,2026-10-22 06:34:55,Jeddah Coastal,New Terminal Installation,Critical,Dispatched,Omar Al-Ghamdi,24,2026-10-23 06:34:55,,True
+TICK-1258,2026-10-17 23:46:37,Makkah Central,Network / Connectivity Offline,Low,Resolved,Abdullah Hawsawi,18,2026-10-18 17:46:37,2026-10-18 13:20:50,True
+TICK-1259,2026-10-15 19:43:22,Medina North,Hardware Malfunction,Medium,Resolved,Hamza Al-Amri,24,2026-10-16 19:43:22,2026-10-16 16:21:26,True
+TICK-1260,2026-10-16 16:44:49,Jeddah Coastal,Network / Connectivity Offline,Critical,Resolved,Yousef Bakhsh,6,2026-10-16 22:44:49,2026-10-16 20:58:30,True
+TICK-1261,2026-10-22 07:06:00,Makkah Central,New Terminal Installation,Medium,Resolved,Abdullah Hawsawi,48,2026-10-24 07:06:00,2026-10-22 10:12:14,True
+TICK-1262,2026-10-23 02:21:25,Makkah Central,Network / Connectivity Offline,High,Resolved,Abdullah Hawsawi,9,2026-10-23 11:21:25,2026-10-23 07:30:45,True
+TICK-1263,2026-10-15 13:54:53,Riyadh Metro,Hardware Malfunction,Medium,Resolved,Tariq Al-Mansoor,24,2026-10-16 13:54:53,2026-10-15 15:07:20,True
+TICK-1264,2026-10-23 09:33:20,Makkah Central,New Terminal Installation,Critical,Dispatched,Ibrahim Fallatah,24,2026-10-24 09:33:20,,True
+TICK-1265,2026-10-19 12:03:57,Makkah Central,Hardware Malfunction,Medium,Resolved,Abdullah Hawsawi,24,2026-10-20 12:03:57,2026-10-20 20:15:55,True
+TICK-1266,2026-10-18 01:40:47,Medina North,New Terminal Installation,Low,Dispatched,Hamza Al-Amri,72,2026-10-21 01:40:47,,True
+TICK-1267,2026-10-25 04:05:00,Medina North,Hardware Malfunction,High,Resolved,Hamza Al-Amri,18,2026-10-25 22:05:00,2026-10-25 20:08:40,True
+TICK-1268,2026-10-25 06:22:36,Riyadh Metro,New Terminal Installation,Medium,Resolved,Tariq Al-Mansoor,48,2026-10-27 06:22:36,2026-10-26 03:00:40,True
+TICK-1269,2026-10-25 08:29:46,Riyadh Metro,New Terminal Installation,Critical,Resolved,Hassan Al-Zahrani,24,2026-10-26 08:29:46,2026-10-25 10:15:18,True
+TICK-1270,2026-10-20 13:32:45,Medina North,Paper Roll & Peripheral Setup,High,Resolved,Saud Al-Balawi,27,2026-10-21 16:32:45,2026-10-20 20:00:14,True
+TICK-1271,2026-10-24 10:19:55,Jeddah Coastal,Paper Roll & Peripheral Setup,Medium,Resolved,Yousef Bakhsh,36,2026-10-25 22:19:55,2026-10-25 16:28:42,True
+TICK-1272,2026-10-27 23:17:37,Jeddah Coastal,Network / Connectivity Offline,High,Resolved,Yousef Bakhsh,9,2026-10-28 08:17:37,2026-10-28 02:51:43,True
+TICK-1273,2026-10-24 10:32:14,Medina North,Hardware Malfunction,High,Resolved,Hamza Al-Amri,18,2026-10-25 04:32:14,2026-10-24 15:02:14,True
+TICK-1274,2026-10-15 20:33:42,Jeddah Coastal,Hardware Malfunction,Medium,Resolved,Yousef Bakhsh,24,2026-10-16 20:33:42,2026-10-16 09:29:21,True
+TICK-1275,2026-10-19 14:21:12,Jeddah Coastal,Hardware Malfunction,High,Dispatched,Yousef Bakhsh,18,2026-10-20 08:21:12,,True
+TICK-1276,2026-10-24 21:03:55,Riyadh Metro,Network / Connectivity Offline,Medium,Resolved,Tariq Al-Mansoor,12,2026-10-25 09:03:55,2026-10-25 07:05:16,True
+TICK-1277,2026-10-20 19:47:06,Jeddah Coastal,Software & Firmware Glitch,Medium,Resolved,Noura Al-Saeed,18,2026-10-21 13:47:06,2026-10-21 01:48:44,True
+TICK-1278,2026-10-18 04:47:43,Riyadh Metro,New Terminal Installation,High,Resolved,Tariq Al-Mansoor,36,2026-10-19 16:47:43,2026-10-19 04:44:17,True
+TICK-1279,2026-10-17 19:12:10,Jeddah Coastal,Hardware Malfunction,High,Resolved,Yousef Bakhsh,18,2026-10-18 13:12:10,2026-10-18 01:39:59,True
+TICK-1280,2026-10-27 05:57:58,Dammam Eastern,Hardware Malfunction,Low,Dispatched,Ali Al-Khaldi,36,2026-10-28 17:57:58,,True
+TICK-1281,2026-10-27 23:41:07,Dammam Eastern,Paper Roll & Peripheral Setup,High,Pending Merchant Action,Ali Al-Khaldi,27,2026-10-29 02:41:07,,True
+TICK-1282,2026-10-20 12:59:13,Jeddah Coastal,New Terminal Installation,Medium,Resolved,Noura Al-Saeed,48,2026-10-22 12:59:13,2026-10-22 23:09:26,True
+TICK-1283,2026-10-25 00:47:43,Makkah Central,Network / Connectivity Offline,High,Resolved,Ibrahim Fallatah,9,2026-10-25 09:47:43,2026-10-25 06:27:40,True
+TICK-1284,2026-10-26 06:17:45,Makkah Central,Hardware Malfunction,Medium,Dispatched,Ibrahim Fallatah,24,2026-10-27 06:17:45,,True
+TICK-1285,2026-10-15 06:19:32,Jeddah Coastal,Paper Roll & Peripheral Setup,Medium,Resolved,Noura Al-Saeed,36,2026-10-16 18:19:32,2026-10-15 09:19:50,True
+TICK-1286,2026-10-27 16:13:50,Riyadh Metro,Software & Firmware Glitch,High,Resolved,Faisal Al-Harbi,13,2026-10-28 05:13:50,2026-10-28 09:19:53,True
+TICK-1287,2026-10-19 10:08:23,Riyadh Metro,Network / Connectivity Offline,Medium,Resolved,Hassan Al-Zahrani,12,2026-10-19 22:08:23,2026-10-19 15:07:24,True
+TICK-1288,2026-10-28 09:15:26,Riyadh Metro,Network / Connectivity Offline,High,Pending Merchant Action,Reem Al-Otaibi,9,2026-10-28 18:15:26,,True
+TICK-1289,2026-10-15 19:27:13,Makkah Central,Software & Firmware Glitch,Low,Resolved,Abdullah Hawsawi,27,2026-10-16 22:27:13,2026-10-16 11:32:28,True
+TICK-1290,2026-10-27 12:31:42,Dammam Eastern,Software & Firmware Glitch,High,Dispatched,Ali Al-Khaldi,13,2026-10-28 01:31:42,,True
+TICK-1291,2026-10-19 01:50:45,Medina North,New Terminal Installation,Medium,Resolved,Saud Al-Balawi,48,2026-10-21 01:50:45,2026-10-20 17:03:06,True
+TICK-1292,2026-10-27 20:12:05,Riyadh Metro,New Terminal Installation,High,Resolved,Hassan Al-Zahrani,36,2026-10-29 08:12:05,2026-10-28 14:55:00,True
+TICK-1293,2026-10-16 03:14:41,Dammam Eastern,Network / Connectivity Offline,Low,In Progress,Khaled Al-Dossary,18,2026-10-16 21:14:41,,True
+TICK-1294,2026-10-21 23:42:26,Jeddah Coastal,Paper Roll & Peripheral Setup,Medium,Resolved,Noura Al-Saeed,36,2026-10-23 11:42:26,2026-10-24 07:46:28,True
+TICK-1295,2026-10-28 09:45:16,Medina North,Network / Connectivity Offline,Critical,Resolved,Saud Al-Balawi,6,2026-10-28 15:45:16,2026-10-28 14:05:00,True
+TICK-1296,2026-10-20 17:09:24,Makkah Central,Paper Roll & Peripheral Setup,High,Resolved,Abdullah Hawsawi,27,2026-10-21 20:09:24,2026-10-21 07:15:07,True
+TICK-1297,2026-10-21 15:14:03,Makkah Central,Software & Firmware Glitch,Critical,In Progress,Abdullah Hawsawi,9,2026-10-22 00:14:03,,True
+TICK-1298,2026-10-20 04:16:06,Riyadh Metro,Hardware Malfunction,Medium,Resolved,Reem Al-Otaibi,24,2026-10-21 04:16:06,2026-10-21 02:22:31,True
+TICK-1299,2026-10-21 18:38:52,Dammam Eastern,New Terminal Installation,High,Resolved,Ali Al-Khaldi,36,2026-10-23 06:38:52,2026-10-22 09:42:04,True
+TICK-1300,2026-10-17 11:39:05,Medina North,Network / Connectivity Offline,Critical,Resolved,Saud Al-Balawi,6,2026-10-17 17:39:05,2026-10-17 19:06:51,True
+TICK-1301,2026-10-27 08:20:26,Jeddah Coastal,Network / Connectivity Offline,High,Dispatched,Omar Al-Ghamdi,9,2026-10-27 17:20:26,,True
+TICK-1302,2026-10-26 00:13:25,Dammam Eastern,Software & Firmware Glitch,Critical,Resolved,Khaled Al-Dossary,9,2026-10-26 09:13:25,2026-10-26 04:00:30,True
+TICK-1303,2026-10-16 13:39:15,Riyadh Metro,New Terminal Installation,Medium,Resolved,Reem Al-Otaibi,48,2026-10-18 13:39:15,2026-10-18 01:17:41,True
+TICK-1304,2026-10-19 01:25:08,Medina North,Paper Roll & Peripheral Setup,Low,Resolved,Hamza Al-Amri,54,2026-10-21 07:25:08,2026-10-19 15:33:15,True
+TICK-1305,2026-10-24 10:34:58,Jeddah Coastal,New Terminal Installation,High,Resolved,Yousef Bakhsh,36,2026-10-25 22:34:58,2026-10-25 18:54:11,True
+TICK-1306,2026-10-26 17:36:39,Makkah Central,Network / Connectivity Offline,High,Resolved,Abdullah Hawsawi,9,2026-10-27 02:36:39,2026-10-27 00:53:09,True
+TICK-1307,2026-10-22 14:44:36,Makkah Central,Software & Firmware Glitch,High,Resolved,Ibrahim Fallatah,13,2026-10-23 03:44:36,2026-10-22 22:17:13,True
+TICK-1308,2026-10-21 22:31:54,Dammam Eastern,Hardware Malfunction,Low,Resolved,Khaled Al-Dossary,36,2026-10-23 10:31:54,2026-10-22 09:47:12,True
+TICK-1309,2026-10-23 09:01:17,Makkah Central,Paper Roll & Peripheral Setup,Medium,Resolved,Ibrahim Fallatah,36,2026-10-24 21:01:17,2026-10-23 13:21:34,True
+TICK-1310,2026-10-19 02:37:34,Medina North,New Terminal Installation,Low,Resolved,Hamza Al-Amri,72,2026-10-22 02:37:34,2026-10-20 10:28:13,True
+TICK-1311,2026-10-27 15:49:54,Jeddah Coastal,Hardware Malfunction,High,Dispatched,Noura Al-Saeed,18,2026-10-28 09:49:54,,True
+TICK-1312,2026-10-19 10:20:52,Makkah Central,New Terminal Installation,High,Resolved,Ibrahim Fallatah,36,2026-10-20 22:20:52,2026-10-19 13:20:25,True
+TICK-1313,2026-10-21 00:52:43,Medina North,Hardware Malfunction,High,Resolved,Saud Al-Balawi,18,2026-10-21 18:52:43,2026-10-21 16:14:39,True
+TICK-1314,2026-10-17 21:24:01,Medina North,Network / Connectivity Offline,Low,Resolved,Hamza Al-Amri,18,2026-10-18 15:24:01,2026-10-18 08:38:26,True
+TICK-1315,2026-10-15 03:07:05,Riyadh Metro,Network / Connectivity Offline,Medium,Resolved,Hassan Al-Zahrani,12,2026-10-15 15:07:05,2026-10-15 04:46:23,True
+TICK-1316,2026-10-22 09:39:51,Riyadh Metro,New Terminal Installation,Medium,Resolved,Faisal Al-Harbi,48,2026-10-24 09:39:51,2026-10-23 12:42:34,True
+TICK-1317,2026-10-27 03:58:33,Medina North,New Terminal Installation,Low,Resolved,Saud Al-Balawi,72,2026-10-30 03:58:33,2026-10-27 12:21:25,True
+TICK-1318,2026-10-21 08:25:35,Jeddah Coastal,Hardware Malfunction,High,Resolved,Omar Al-Ghamdi,18,2026-10-22 02:25:35,2026-10-22 10:30:07,True
+TICK-1319,2026-10-28 07:26:02,Makkah Central,Hardware Malfunction,High,Resolved,Abdullah Hawsawi,18,2026-10-29 01:26:02,2026-10-28 14:16:00,True
+TICK-1320,2026-10-20 19:27:02,Jeddah Coastal,Hardware Malfunction,Medium,In Progress,Yousef Bakhsh,24,2026-10-21 19:27:02,,True
